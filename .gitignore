@@ -1,0 +1,15 @@
+node_modules/
+dist/
+tmp/
+temp/
+db/
+exports/
+wallets.csv
+collection-mints-live/*.json
+.env
+.DS_Store
+.idea
+output/*.json
+*.log
+shdw-drive-upload-*
+.gitconfig
